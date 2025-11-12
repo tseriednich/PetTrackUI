@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ReaLTaiizor" Version="3.8.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\PetTrack.Business\PetTrack.Business.csproj" />
   </ItemGroup>
 
