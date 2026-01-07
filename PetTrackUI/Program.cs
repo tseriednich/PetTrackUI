@@ -13,7 +13,8 @@ namespace PetTrackUI
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmHayvanKayitWizard());
+            Application.Run(new GirisFormu()); // KayitFormu yazan yeri GirisFormu yap
+
 
 
 
